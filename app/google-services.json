@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855469728116",
+    "project_id": "uber-99951",
+    "storage_bucket": "uber-99951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855469728116:android:0662350b0a0f0d8cd18c21",
+        "android_client_info": {
+          "package_name": "com.example.kotlinuberremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855469728116-0182gcatu02gcqogn3kjdeo2iaaik1i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVthdVpC1knpqqcMkiKW9b08k73OhV_iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855469728116-0182gcatu02gcqogn3kjdeo2iaaik1i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

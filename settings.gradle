@@ -1,0 +1,2 @@
+rootProject.name = "KotlinUberRemake"
+include ':app'
